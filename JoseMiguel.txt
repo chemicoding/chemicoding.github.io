@@ -1,8 +1,8 @@
 <span id="a">josemiguel@gonzalez</span>:<span id="b">~</span><span id="c">$</span> cd Jose_Miguel/<!-- kjsdfhkjdhsfkjdshfkj -->About_Jose_Miguel
 <span id="a">josemiguel@gonzalez</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->JoseMiguel.txt<br/><br/>
-My favorite code quote, "<span id="k">Build fast, Code big</span>". <!-- sjkfhskjf -->
+Welcome! My name is"<span id="k">José Miguel González Domínguez</span>". <!-- sjkfhskjf -->
 
-Welcome! My name is José Miguel González Domínguez.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I used to work as a lawyer, but i decided to change my life and I've recently finished a nine week coding bootcamp in Le Wagon Madrid.</p>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I used to work as a lawyer, but i decided to change my life and I've recently finished a nine week coding bootcamp in Le Wagon Madrid.</p>
 <p>I love coding, solving problems and technology in general, I am a fast learner allways willing to know more about how things work</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I learned to develop a full functioning web application from scratch. The program covers from the foundations of Ruby to Rails framework, including Html, CSS, JavaScript, Heroku and databases. I put all this knowdledge in practice on the final proyect, working in  a team and using Scrum methodology.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>My final proyect in Le Wagon was 'gigs!', a web app to search for concerts based on location, discover indie bands listening to his spotify directly from the app and buy tickets. I worked with my team in all the stages, from Figma mockup to deployment<br><br><br>If you wanna see the app just go to <a href="https://www.live-gigs.live/"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
